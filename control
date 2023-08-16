@@ -1,0 +1,9 @@
+Package: com.axelkoolhaas.vlclap
+Name: VLClap
+Version: 0.1
+Architecture: iphoneos-arm64
+Description: Replace VLC spaces with claps!
+Maintainer: Shoaloak
+Author: Shoaloak
+Section: Tweaks
+Depends: ${ORION}, firmware (>= 12.2)
